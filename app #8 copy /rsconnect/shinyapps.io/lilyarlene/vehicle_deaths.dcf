@@ -1,0 +1,11 @@
+name: vehicle_deaths
+title: vehicle_deaths
+account: lilyarlene
+server: shinyapps.io
+appId: 196780
+bundleId: 903688
+url: https://lilyarlene.shinyapps.io/vehicle_deaths/
+when: 1500037266.20393
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
